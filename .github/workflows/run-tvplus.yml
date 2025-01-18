@@ -1,4 +1,4 @@
-name: Run Samsung TV Plus
+name: Run Samsung TV Plus and Save M3U8 Output
 
 on:
   push:
@@ -26,8 +26,15 @@ jobs:
     - name: Run Samsung TV Plus App
       run: |
         nohup python app.py --PORT 8182 &
-    
-    - name: Display App Logs (Optional)
-      run: |
-        sleep 10
-        curl http://127.0.0.1:8182
+
+    - name: Wait for App to Start
+      run: sleep 10
+
+    - name: Download M3U8 Playlist
+      run: curl http://127.0.0.1:8182/playlist.m3u8 -o playlist.m3u8
+
+    - name: Upload M3U8 as Artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: samsung-tvplus-playlist
+        path: playlist.m3u8

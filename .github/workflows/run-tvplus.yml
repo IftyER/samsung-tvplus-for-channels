@@ -1,0 +1,33 @@
+name: Run Samsung TV Plus
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  run-tvplus:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install Dependencies
+      run: |
+        pip install --no-cache-dir -r requirements.txt
+
+    - name: Run Samsung TV Plus App
+      run: |
+        nohup python app.py --PORT 8182 &
+    
+    - name: Display App Logs (Optional)
+      run: |
+        sleep 10
+        curl http://127.0.0.1:8182

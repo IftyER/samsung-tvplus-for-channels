@@ -14,7 +14,7 @@ import requests
 from cachelib import SimpleCache
 
 
-REGION_ALL = 'all'
+REGION_ALL = 'us,in'
 PLAYLIST_PATH = 'playlist.m3u8'
 EPG_PATH = 'epg.xml'
 CLEAR_CACHE_PATH = 'clear_cache'

@@ -1,4 +1,4 @@
-name: Generate and Upload M3U8 Playlist
+name: Generate and Commit M3U8 Playlist
 
 on:
   push:
@@ -13,6 +13,8 @@ jobs:
     steps:
     - name: Checkout Repository
       uses: actions/checkout@v2
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Set up Python
       uses: actions/setup-python@v2
@@ -25,16 +27,18 @@ jobs:
 
     - name: Run Samsung TV Plus App
       run: |
-        nohup python app.py --PORT 8182 &
+        nohup python app.py --PORT 8183 &
 
     - name: Wait for App to Start
-      run: sleep 10
+      run: sleep 15
 
-    - name: Download M3U8 Playlist
-      run: curl http://127.0.0.1:8182/playlist.m3u8 -o playlist.m3u8
+    - name: Fetch M3U8 Playlist
+      run: curl http://127.0.0.1:8183/playlist.m3u8 -o playlist.m3u8
 
-    - name: Upload M3U8 as Artifact
-      uses: actions/upload-artifact@v3
-      with:
-        name: samsung-tvplus-playlist
-        path: playlist.m3u8
+    - name: Commit and Push M3U8 Playlist
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add playlist.m3u8
+        git commit -m "Add generated M3U8 playlist"
+        git push

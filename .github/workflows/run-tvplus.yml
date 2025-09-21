@@ -1,44 +1,69 @@
-name: Generate and Commit M3U8 Playlist
+name: Generate Samsung TV Plus Playlist
 
 on:
+  schedule:
+    # Run daily at midnight UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch:  # Allow manual triggering
   push:
-    branches:
-      - main
-  workflow_dispatch:
+    branches: [ main ]
+    paths: 
+      - 'generate_samsung_tvplus.py'
+      - '.github/workflows/generate-playlist.yml'
 
 jobs:
-  run-tvplus:
+  generate:
     runs-on: ubuntu-latest
-
+    
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v2
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }}
-
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v4
       with:
-        python-version: '3.x'
-
-    - name: Install Dependencies
+        python-version: '3.11'
+        
+    - name: Install dependencies
       run: |
-        pip install --no-cache-dir -r requirements.txt
-
-    - name: Run Samsung TV Plus App
+        python -m pip install --upgrade pip
+        pip install requests
+        
+    - name: Generate playlist and EPG files
+      run: python generate_samsung_tvplus.py
+      env:
+        # Configuration via environment variables
+        REGIONS: 'all'  # Change to specific regions like 'us,uk,ca' if needed
+        GROUPS: ''      # Leave empty for all groups, or specify like 'News,Sports'
+        INCLUDE_DRM: 'true'
+        START_CHNO: '1'
+        SORT_BY: 'chno'  # 'chno' or 'name'
+        
+    - name: Check if files were generated
       run: |
-        nohup python app.py --PORT 8183 &
-
-    - name: Wait for App to Start
-      run: sleep 15
-
-    - name: Fetch M3U8 Playlist
-      run: curl http://127.0.0.1:8183/playlist.m3u8 -o playlist.m3u8
-
-    - name: Commit and Push M3U8 Playlist
+        ls -la output/
+        echo "Playlist file size: $(wc -l < output/samsung_tvplus.m3u) lines"
+        echo "EPG file size: $(wc -c < output/samsung_tvplus.xml) bytes"
+        
+    - name: Commit and push changes
       run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add playlist.m3u8
-        git commit -m "Add generated M3U8 playlist"
-        git push
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add output/
+        
+        # Check if there are changes to commit
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Update Samsung TV Plus playlist and EPG - $(date -u '+%Y-%m-%d %H:%M:%S') UTC"
+          git push
+        fi
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: Upload artifacts
+      uses: actions/upload-artifact@v4
+      with:
+        name: samsung-tvplus-files
+        path: output/
+        retention-days: 30

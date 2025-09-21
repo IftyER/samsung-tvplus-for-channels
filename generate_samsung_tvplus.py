@@ -18,7 +18,7 @@ EPG_URL = 'https://i.mjh.nz/SamsungTVPlus/{region}.xml.gz'
 PLAYBACK_URL = 'https://jmp2.uk/{slug}'
 TIMEOUT = (10, 30)  # connect, read timeouts
 OUTPUT_DIR = 'output'
-PLAYLIST_FILE = 'playlist.m3u8'
+PLAYLIST_FILE = 'samsung_tvplus.m3u'
 EPG_FILE = 'samsung_tvplus.xml'
 
 # Default settings - can be overridden by environment variables

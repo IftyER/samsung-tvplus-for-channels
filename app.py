@@ -137,7 +137,7 @@ class Handler(BaseHTTPRequestHandler):
             logo = channel['logo']
             group = channel['group']
             name = channel['name']
-            url = PLAYBACK_URL.format(id=key)
+            url = PLAYBACK_URL.format(slug=data['slug'].format(id=channel_id))
             channel_id = f'samsung-{key}'
 
             # Skip channels that require a license

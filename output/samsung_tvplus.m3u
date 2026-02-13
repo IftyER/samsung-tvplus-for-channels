@@ -357,7 +357,7 @@ https://jmp2.uk/stvp-KR400005KB
 https://jmp2.uk/stvp-CA2100002KI
 #EXTINF:-1 tvg-id="IN46000184H" tvg-name="Kings Of Comedy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000184H_20260121T010823SQUARE.png" group-title="Entertainment" tvg-chno="1000",Kings Of Comedy
 https://jmp2.uk/stvp-IN46000184H
-#EXTINF:-1 tvg-id="USBD3500033U0" tvg-name="Movie Hub Romance [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500033U0_20260210T002200SQUARE.png" group-title="Movies" tvg-chno="1000" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine",Movie Hub Romance [DRM]
+#EXTINF:-1 tvg-id="USBD3500033U0" tvg-name="Movie Hub Romance [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500033U0_20260210T002200SQUARE.png" group-title="Movies" tvg-chno="1000" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?service_id=USBD3500033U0&drm-type=widevine",Movie Hub Romance [DRM]
 https://jmp2.uk/stvp-USBD3500033U0
 #EXTINF:-1 tvg-id="CA1400005SO" tvg-name="CTV Laughs" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400005SO_20260210T002305SQUARE.png" group-title="Comedy" tvg-chno="1001",CTV Laughs
 https://jmp2.uk/stvp-CA1400005SO
@@ -655,11 +655,11 @@ https://jmp2.uk/stvp-IN3600008TY
 https://jmp2.uk/stvp-US3300008FX
 #EXTINF:-1 tvg-id="USBA3000041ZP" tvg-name="Movie Hub [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000041ZP_20260210T002127SQUARE.png" group-title="Movies" tvg-chno="1200" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine",Movie Hub [DRM]
 https://jmp2.uk/stvp-USBA3000041ZP
-#EXTINF:-1 tvg-id="USBD3500036HP" tvg-name="Movie Hub West [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500036HP_20251125T030945SQUARE.png" group-title="Movies" tvg-chno="1201" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine",Movie Hub West [DRM]
+#EXTINF:-1 tvg-id="USBD3500036HP" tvg-name="Movie Hub West [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500036HP_20251125T030945SQUARE.png" group-title="Movies" tvg-chno="1201" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?service_id=USBD3500036HP&drm-type=widevine",Movie Hub West [DRM]
 https://jmp2.uk/stvp-USBD3500036HP
-#EXTINF:-1 tvg-id="USBD3500032H0" tvg-name="Movie Hub Action [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500032H0_20251118T030623SQUARE.png" group-title="Movies" tvg-chno="1204" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine",Movie Hub Action [DRM]
+#EXTINF:-1 tvg-id="USBD3500032H0" tvg-name="Movie Hub Action [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500032H0_20251118T030623SQUARE.png" group-title="Movies" tvg-chno="1204" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?service_id=USBD3500032H0&drm-type=widevine",Movie Hub Action [DRM]
 https://jmp2.uk/stvp-USBD3500032H0
-#EXTINF:-1 tvg-id="US38000108V" tvg-name="Movie Hub Action West [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US38000108V_20251028T215505SQUARE.png" group-title="Movies" tvg-chno="1205" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine",Movie Hub Action West [DRM]
+#EXTINF:-1 tvg-id="US38000108V" tvg-name="Movie Hub Action West [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US38000108V_20251028T215505SQUARE.png" group-title="Movies" tvg-chno="1205" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?service_id=US38000108V&drm-type=widevine",Movie Hub Action West [DRM]
 https://jmp2.uk/stvp-US38000108V
 #EXTINF:-1 tvg-id="CAAJ40000077N" tvg-name="FilmRise Free Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ40000077N_20251125T191329SQUARE.png" group-title="Movies" tvg-chno="1210",FilmRise Free Movies
 https://jmp2.uk/stvp-CAAJ40000077N

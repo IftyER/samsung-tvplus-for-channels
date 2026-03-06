@@ -3807,7 +3807,7 @@ https://jmp2.uk/stvp-IT600001L6
 https://jmp2.uk/stvp-GB2700013Y7
 #EXTINF:-1 tvg-id="IT4200001D8" tvg-name="Golf Television" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT4200001D8_20250513T010712SQUARE.png" group-title="Sport" tvg-chno="4625",Golf Television
 https://jmp2.uk/stvp-IT4200001D8
-#EXTINF:-1 tvg-id="ATBC4700001JX" tvg-name="DAZN FAST+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBC4700001JX_20250610T010306SQUARE.png" group-title="Fußball" tvg-chno="4631",DAZN FAST+
+#EXTINF:-1 tvg-id="ATBC4700001JX" tvg-name="DAZN FAST+ [DRM]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBC4700001JX_20250610T010306SQUARE.png" group-title="Fußball" tvg-chno="4631" drm="true" license-url="https://d180olzqm6iw12.cloudfront.net/drm/v3/license?drm-type=widevine",DAZN FAST+ [DRM]
 https://jmp2.uk/stvp-ATBC4700001JX
 #EXTINF:-1 tvg-id="CHBA3300010UC" tvg-name="FIFA+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300010UC_20250909T014556SQUARE.png" group-title="Fußball" tvg-chno="4631",FIFA+
 https://jmp2.uk/stvp-CHBA3300010UC

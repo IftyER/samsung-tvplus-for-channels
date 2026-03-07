@@ -533,20 +533,14 @@ https://jmp2.uk/stvp-IN400000830
 https://jmp2.uk/stvp-CA15000018F
 #EXTINF:-1 tvg-id="IN3900002KB" tvg-name="E24" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900002KB_20250811T033446SQUARE.png" group-title="Entertainment" tvg-chno="1122",E24
 https://jmp2.uk/stvp-IN3900002KB
-#EXTINF:-1 tvg-id="USBC1000017D8" tvg-name="WSOC Charlotte" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1000017D8_20241112T001219SQUARE.png" group-title="News & Opinion" tvg-chno="1122",WSOC Charlotte
-https://jmp2.uk/stvp-USBC1000017D8
 #EXTINF:-1 tvg-id="CA4600010PN" tvg-name="CBC News Calgary" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4600010PN_20250401T004709SQUARE.png" group-title="News & Opinion" tvg-chno="1123",CBC News Calgary
 https://jmp2.uk/stvp-CA4600010PN
 #EXTINF:-1 tvg-id="IN3600007DC" tvg-name="Auto Live" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3600007DC_20251203T010208SQUARE.png" group-title="Entertainment" tvg-chno="1123",Auto Live
 https://jmp2.uk/stvp-IN3600007DC
-#EXTINF:-1 tvg-id="US700004OA" tvg-name="WBTV News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700004OA_20241112T001405SQUARE.png" group-title="News & Opinion" tvg-chno="1123",WBTV News
-https://jmp2.uk/stvp-US700004OA
 #EXTINF:-1 tvg-id="CA4600008AI" tvg-name="CBC News Edmonton" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4600008AI_20250401T004712SQUARE.png" group-title="News & Opinion" tvg-chno="1124",CBC News Edmonton
 https://jmp2.uk/stvp-CA4600008AI
 #EXTINF:-1 tvg-id="IN24000052F" tvg-name="Star Central" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN24000052F_20250811T033512SQUARE.png" group-title="Entertainment" tvg-chno="1124",Star Central
 https://jmp2.uk/stvp-IN24000052F
-#EXTINF:-1 tvg-id="US1400004HN" tvg-name="WCNC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400004HN_20241112T001524SQUARE.png" group-title="News & Opinion" tvg-chno="1124",WCNC
-https://jmp2.uk/stvp-US1400004HN
 #EXTINF:-1 tvg-id="CA4600012O1" tvg-name="CBC News Manitoba" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4600012O1_20250401T004715SQUARE.png" group-title="News & Opinion" tvg-chno="1125",CBC News Manitoba
 https://jmp2.uk/stvp-CA4600012O1
 #EXTINF:-1 tvg-id="IN1600001OG" tvg-name="Pitaara Comedy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600001OG_20240612T015018SQUARE.png" group-title="Entertainment" tvg-chno="1125",Pitaara Comedy
@@ -591,8 +585,8 @@ https://jmp2.uk/stvp-IN49000103E
 https://jmp2.uk/stvp-CA4600015MG
 #EXTINF:-1 tvg-id="IN3900022KR" tvg-name="Mark Rober TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900022KR_20260225T010326SQUARE.png" group-title="Entertainment" tvg-chno="1135",Mark Rober TV
 https://jmp2.uk/stvp-IN3900022KR
-#EXTINF:-1 tvg-id="USBC3200001S5" tvg-name="WN Charlotte" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200001S5_20241112T001950SQUARE.png" group-title="News & Opinion" tvg-chno="1135",WN Charlotte
-https://jmp2.uk/stvp-USBC3200001S5
+#EXTINF:-1 tvg-id="USBC1500009LD" tvg-name="WeatherNation" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1500009LD_20241112T000830SQUARE.png" group-title="News & Opinion" tvg-chno="1135",WeatherNation
+https://jmp2.uk/stvp-USBC1500009LD
 #EXTINF:-1 tvg-id="IN3600009O8" tvg-name="Challenge Accepted" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3600009O8_20260225T010318SQUARE.png" group-title="Entertainment" tvg-chno="1136",Challenge Accepted
 https://jmp2.uk/stvp-IN3600009O8
 #EXTINF:-1 tvg-id="IN390002534" tvg-name="The Try Guys" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN390002534_20260225T010328SQUARE.png" group-title="Entertainment" tvg-chno="1137",The Try Guys

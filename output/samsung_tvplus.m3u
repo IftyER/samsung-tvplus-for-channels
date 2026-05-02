@@ -961,7 +961,7 @@ https://jmp2.uk/stvp-USBC6000225M
 https://jmp2.uk/stvp-US3700005GP
 #EXTINF:-1 tvg-id="US35000201T" tvg-name="Acorn TV Mysteries" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US35000201T_20260421T133808SQUARE.png" group-title="Action & Drama" tvg-chno="1527",Acorn TV Mysteries
 https://jmp2.uk/stvp-US35000201T
-#EXTINF:-1 tvg-id="US3000015O4" tvg-name="Law & Order [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3000015O4_20260421T133924SQUARE.png" group-title="Action & Drama" tvg-chno="1530" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?service_id=US3000015O4&drm-type=widevine",Law & Order [DRM]
+#EXTINF:-1 tvg-id="US3000015O4" tvg-name="Law & Order [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3000015O4_20260421T133924SQUARE.png" group-title="Action & Drama" tvg-chno="1530" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine",Law & Order [DRM]
 https://jmp2.uk/stvp-US3000015O4
 #EXTINF:-1 tvg-id="US1800019OC" tvg-name="Designated Survivor [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800019OC_20260421T133910SQUARE.png" group-title="Action & Drama" tvg-chno="1535" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?service_id=US1800019OC&drm-type=widevine",Designated Survivor [DRM]
 https://jmp2.uk/stvp-US1800019OC
@@ -979,19 +979,19 @@ https://jmp2.uk/stvp-USBC450000130
 https://jmp2.uk/stvp-USBC1000004G8
 #EXTINF:-1 tvg-id="US180001143" tvg-name="Las Vegas [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US180001143_20260421T133917SQUARE.png" group-title="Action & Drama" tvg-chno="1562" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine",Las Vegas [DRM]
 https://jmp2.uk/stvp-US180001143
-#EXTINF:-1 tvg-id="US19000072T" tvg-name="Nashville [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US19000072T_20260421T134126SQUARE.png" group-title="Action & Drama" tvg-chno="1564" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?service_id=US19000072T&drm-type=widevine",Nashville [DRM]
+#EXTINF:-1 tvg-id="US19000072T" tvg-name="Nashville [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US19000072T_20260421T134126SQUARE.png" group-title="Action & Drama" tvg-chno="1564" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine",Nashville [DRM]
 https://jmp2.uk/stvp-US19000072T
 #EXTINF:-1 tvg-id="USAJ26000015Y" tvg-name="Drama Life" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ26000015Y_20260421T133449SQUARE.png" group-title="Action & Drama" tvg-chno="1565",Drama Life
 https://jmp2.uk/stvp-USAJ26000015Y
 #EXTINF:-1 tvg-id="US4100005NW" tvg-name="Dawson's Creek [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100005NW_20260421T133907SQUARE.png" group-title="Action & Drama" tvg-chno="1567" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine",Dawson's Creek [DRM]
 https://jmp2.uk/stvp-US4100005NW
-#EXTINF:-1 tvg-id="US4100029G5" tvg-name="Felicity [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100029G5_20260421T133634SQUARE.png" group-title="Action & Drama" tvg-chno="1569" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?service_id=US4100029G5&drm-type=widevine",Felicity [DRM]
+#EXTINF:-1 tvg-id="US4100029G5" tvg-name="Felicity [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100029G5_20260421T133634SQUARE.png" group-title="Action & Drama" tvg-chno="1569" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine",Felicity [DRM]
 https://jmp2.uk/stvp-US4100029G5
 #EXTINF:-1 tvg-id="CA2100002KI" tvg-name="Dhar Mann TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2100002KI_20260414T005035SQUARE.png" group-title="Entertainment" tvg-chno="1575",Dhar Mann TV
 https://jmp2.uk/stvp-CA2100002KI
 #EXTINF:-1 tvg-id="US2100005WS" tvg-name="Dhar Mann TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2100005WS_20260217T231323SQUARE.png" group-title="Action & Drama" tvg-chno="1575",Dhar Mann TV
 https://jmp2.uk/stvp-US2100005WS
-#EXTINF:-1 tvg-id="US1900013Z7" tvg-name="Wildfire [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900013Z7_20260421T133738SQUARE.png" group-title="Action & Drama" tvg-chno="1578" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?service_id=US1900013Z7&drm-type=widevine",Wildfire [DRM]
+#EXTINF:-1 tvg-id="US1900013Z7" tvg-name="Wildfire [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900013Z7_20260421T133738SQUARE.png" group-title="Action & Drama" tvg-chno="1578" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine",Wildfire [DRM]
 https://jmp2.uk/stvp-US1900013Z7
 #EXTINF:-1 tvg-id="CA4600004EA" tvg-name="Heartland" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4600004EA_20260117T020538SQUARE.png" group-title="Entertainment" tvg-chno="1580",Heartland
 https://jmp2.uk/stvp-CA4600004EA
@@ -1003,7 +1003,7 @@ https://jmp2.uk/stvp-CABA3700002ML
 https://jmp2.uk/stvp-USBA2000001BR
 #EXTINF:-1 tvg-id="USBB3500002FL" tvg-name="TV Land Drama" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3500002FL_20260421T133608SQUARE.png" group-title="Action & Drama" tvg-chno="1595",TV Land Drama
 https://jmp2.uk/stvp-USBB3500002FL
-#EXTINF:-1 tvg-id="US1900014Y2" tvg-name="Nash Bridges [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900014Y2_20260421T133740SQUARE.png" group-title="Action & Drama" tvg-chno="1598" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?service_id=US1900014Y2&drm-type=widevine",Nash Bridges [DRM]
+#EXTINF:-1 tvg-id="US1900014Y2" tvg-name="Nash Bridges [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900014Y2_20260421T133740SQUARE.png" group-title="Action & Drama" tvg-chno="1598" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine",Nash Bridges [DRM]
 https://jmp2.uk/stvp-US1900014Y2
 #EXTINF:-1 tvg-id="CABB26000082J" tvg-name="21 Jump Street" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB26000082J_20250826T234604SQUARE.png" group-title="Entertainment" tvg-chno="1600",21 Jump Street
 https://jmp2.uk/stvp-CABB26000082J

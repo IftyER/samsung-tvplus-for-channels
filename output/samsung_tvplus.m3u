@@ -1085,9 +1085,9 @@ https://jmp2.uk/stvp-CA4700017S7
 https://jmp2.uk/stvp-US3300011V9
 #EXTINF:-1 tvg-id="US700010XK" tvg-name="Witness to Justice" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700010XK_20250915T233927SQUARE.png" group-title="Crime" tvg-chno="1833",Witness to Justice
 https://jmp2.uk/stvp-US700010XK
-#EXTINF:-1 tvg-id="US4100030YU" tvg-name="To Catch a Smuggler [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100030YU_20260421T133636SQUARE.png" group-title="Crime" tvg-chno="1837" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?service_id=US4100030YU&drm-type=widevine",To Catch a Smuggler [DRM]
+#EXTINF:-1 tvg-id="US4100030YU" tvg-name="To Catch a Smuggler [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100030YU_20260421T133636SQUARE.png" group-title="Crime" tvg-chno="1837" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine",To Catch a Smuggler [DRM]
 https://jmp2.uk/stvp-US4100030YU
-#EXTINF:-1 tvg-id="US4100035CD" tvg-name="Locked Up Abroad [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100035CD_20260421T133643SQUARE.png" group-title="Crime" tvg-chno="1838" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?service_id=US4100035CD&drm-type=widevine",Locked Up Abroad [DRM]
+#EXTINF:-1 tvg-id="US4100035CD" tvg-name="Locked Up Abroad [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100035CD_20260421T133643SQUARE.png" group-title="Crime" tvg-chno="1838" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine",Locked Up Abroad [DRM]
 https://jmp2.uk/stvp-US4100035CD
 #EXTINF:-1 tvg-id="USBB5200007BY" tvg-name="Dateline 24/7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200007BY_20260421T133840SQUARE.png" group-title="Crime" tvg-chno="1840",Dateline 24/7
 https://jmp2.uk/stvp-USBB5200007BY
